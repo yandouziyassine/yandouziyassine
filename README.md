@@ -11,9 +11,9 @@ I’m a motivated computer engineering student who loves solving real-world prob
 Whether it’s a machine learning model, a blockchain prototype, or a web platform, I focus on creating impactful, efficient, and scalable applications.
 
 #🚀 Featured Projects
-🏒 NHL Sports Betting App
+## 🏒 NHL Sports Betting App
 
-##A predictive sports analytics platform built in Python, using real-time NHL API data and multivariable regression.
+#### A predictive sports analytics platform built in Python, using real-time NHL API data and multivariable regression.
 
 🎯 Achieved a 5% accuracy margin compared to major betting apps
 
@@ -21,23 +21,45 @@ Whether it’s a machine learning model, a blockchain prototype, or a web platfo
 
 🔗 Integrated data pipelines and live odds monitoring
 
-💰 Datathon – Polyfinance 2025
+##💰 Datathon – Polyfinance 2025
 
-## Developed a financial forecasting model using real market datasets during a competitive Datathon.
+#### Developed a financial forecasting model using real market datasets during a competitive Datathon.
 
 🧮 Applied data visualization and predictive analytics
 
 ⚙️ Implemented robust data preprocessing and evaluation pipelines
 
-📈 Ranked among top-performing teams
+📈 Ranked among top-performing teams (Top 10)
 
-⛓️ Intro to Blockchain
 
-## A hands-on blockchain simulation written in Python, illustrating how blocks, hashes, and transactions work.
 
-🔐 Implemented proof-of-work, block validation, and hash chaining
+## ⛓️ Intro to Blockchain
 
-🧩 Focused on cryptographic integrity and system transparency
+#### A hands-on blockchain simulation written in Python, illustrating how blocks, hashes, and transactions work.
+
+This project demonstrates the core principles of blockchain technology — including block creation, hashing, and chain validation — using Python.
+
+### Each block contains:
+
+##### A list of transactions
+
+##### A timestamp
+
+##### The hash of the previous block
+
+##### A nonce (for proof-of-work)
+
+### 🔐 Hashing with SHA-256
+
+##### To ensure data integrity and immutability, each block’s content is hashed using the SHA-256 algorithm:
+
+##### Produces a unique 256-bit (64-character) hash for every block
+
+##### Detects any tampering instantly — if one character in the data changes, the entire hash changes
+
+##### Links blocks securely through the previous_hash field
+
+
 
 ## 💬 SimpleChat – OCSF Implementation
 
