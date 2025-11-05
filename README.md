@@ -47,7 +47,7 @@ Whether it’s a machine learning model, a blockchain prototype, or a web platfo
 
 📡 Implements multiple message-handling protocols
 
-🧱 Built for university networking coursework
+🧱 Built for university software introduction coursework
 
 ## 💼 Experience
 
