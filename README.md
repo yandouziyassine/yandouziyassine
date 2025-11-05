@@ -1,8 +1,9 @@
 ## 👋 Hey, I’m Yassine Yandouzi
 
 ### 🎓 Computer Engineering Student at the University of Ottawa, GPA = 3.6
-##### Gpa of 3.6
-##### Important coursework: Introduction to software engineering, Probability and statistics, Computer Architecture, Electronics, Data Structure and Algorithm
+#### Gpa of 3.6
+#### Important coursework: 
+- Introduction to software engineering, Probability and statistics, Computer Architecture, Electronics, Data Structure and Algorithm
 ### 💡 Passionate about AI, Robotics and finance
 ### 🌍 Multilingual: English, French, Arabic
 ### 📍 Based in Ottawa, Canada
