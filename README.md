@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Yassine Yandouzi
 
-### 🎓 Computer Engineering Student at the University of Ottawa
+### 🎓 Computer Engineering Student at the University of Ottawa, GPA = 3.6
 ### 💡 Passionate about AI, Data Science, Cybersecurity, and Innovative Tech
 ### 🌍 Multilingual: English, French, Arabic
 ### 📍 Based in Ottawa, Canada
@@ -49,7 +49,7 @@ Whether it’s a machine learning model, a blockchain prototype, or a web platfo
 
 🧱 Built for university networking coursework
 
-# 💼 Experience
+## 💼 Experience
 
 👨‍💻 Founder & Developer – AI Sentinel (03/2025 – Present)
 Built a privacy-focused AI content detection platform that identifies AI-generated text, images, and videos in real time.
@@ -58,24 +58,21 @@ Built a privacy-focused AI content detection platform that identifies AI-generat
 
 🔐 Emphasized on-device inference and data privacy
 
-🌐 Web Developer – Freelance (02/2024 – Present)
-Designed and deployed modern, responsive websites for small businesses using React, Node.js, and MongoDB.
-
 🏁 Supervisor – Top Karting (03/2023 – Present)
 Led a mechanical and operational team, improving efficiency by 35% while ensuring customer safety and satisfaction.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ##Languages: Python, Java, SQL, HTML/CSS, JavaScript, Go, C++
 Frameworks: React, NestJS, Node.js, Django, Flask, TensorFlow, PyTorch, OCSF
 Developer Tools: Git, Docker, AWS, MongoDB,Vercel, 
 Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, JUnit, Guava
 
-📫 Contact
+## 📫 Contact
 
 📧 Email: yandouziyassine@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/yandouziyassine
+🔗 LinkedIn: https://www.linkedin.com/in/yassine-yandouzi/
  
 🌐 Portfolio: Yassineyandouzi.com
 
