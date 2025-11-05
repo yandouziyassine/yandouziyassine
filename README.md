@@ -63,10 +63,10 @@ Led a mechanical and operational team, improving efficiency by 35% while ensurin
 
 ## 🛠️ Tech Stack
 
-##Languages: Python, Java, SQL, HTML/CSS, JavaScript, Go, C++
-Frameworks: React, NestJS, Node.js, Django, Flask, TensorFlow, PyTorch, OCSF
-Developer Tools: Git, Docker, AWS, MongoDB,Vercel, 
-Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, JUnit, Guava
+#### Languages: Python, Java, SQL, HTML/CSS, JavaScript, Go, C++
+#### Frameworks: React, NestJS, Node.js, Django, Flask, TensorFlow, PyTorch, OCSF
+#### Developer Tools: Git, Docker, AWS, MongoDB,Vercel, 
+#### Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, JUnit, Guava
 
 ## 📫 Contact
 
