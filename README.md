@@ -74,6 +74,6 @@ Led a mechanical and operational team, improving efficiency by 35% while ensurin
 
 🔗 LinkedIn: https://www.linkedin.com/in/yassine-yandouzi/
  
-🌐 Portfolio: Yassineyandouzi.com
+🌐 Portfolio: https://yassineyandouzi.com/ 
 
 ⭐ Always open to collaborations on AI, data, Robotics and impactful tech projects. Let’s build the future together!
