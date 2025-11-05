@@ -21,7 +21,7 @@ Whether it’s a machine learning model, a blockchain prototype, or a web platfo
 
 🔗 Integrated data pipelines and live odds monitoring
 
-##💰 Datathon – Polyfinance 2025
+## 💰 Datathon – Polyfinance 2025
 
 #### Developed a financial forecasting model using real market datasets during a competitive Datathon.
 
