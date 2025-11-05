@@ -1,11 +1,11 @@
-#👋 Hey, I’m Yassine Yandouzi
+##👋 Hey, I’m Yassine Yandouzi
 
-## 🎓 Computer Engineering Student at the University of Ottawa
-## 💡 Passionate about AI, Data Science, Cybersecurity, and Innovative Tech
-## 🌍 Multilingual: English, French, Arabic
-## 📍 Based in Ottawa, Canada
+### 🎓 Computer Engineering Student at the University of Ottawa
+### 💡 Passionate about AI, Data Science, Cybersecurity, and Innovative Tech
+### 🌍 Multilingual: English, French, Arabic
+### 📍 Based in Ottawa, Canada
 
-#🧠 About Me
+##🧠 About Me
 
 I’m a motivated computer engineering student who loves solving real-world problems through technology. I enjoy building intelligent systems, exploring data-driven solutions, and continuously learning new tools and frameworks.
 Whether it’s a machine learning model, a blockchain prototype, or a web platform, I focus on creating impactful, efficient, and scalable applications.
