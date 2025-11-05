@@ -1,17 +1,19 @@
 ## 👋 Hey, I’m Yassine Yandouzi
 
 ### 🎓 Computer Engineering Student at the University of Ottawa, GPA = 3.6
-### 💡 Passionate about AI, Data Science, Cybersecurity, and Innovative Tech
+##### Gpa of 3.6
+##### Important coursework: Introduction to software engineering, Probability and statistics, Computer Architecture, Electronics, Data Structure and Algorithm
+### 💡 Passionate about AI, Robotics and finance
 ### 🌍 Multilingual: English, French, Arabic
 ### 📍 Based in Ottawa, Canada
 
-## 🧠 About Me
+# 🧠 About Me
 
 I’m a motivated computer engineering student who loves solving real-world problems through technology. I enjoy building intelligent systems, exploring data-driven solutions, and continuously learning new tools and frameworks.
 Whether it’s a machine learning model, a blockchain prototype, or a web platform, I focus on creating impactful, efficient, and scalable applications.
 
-#🚀 Featured Projects
-## 🏒 NHL Sports Betting App
+# 🚀 Featured Projects
+### 🏒 NHL Sports Betting App
 
 #### A predictive sports analytics platform built in Python, using real-time NHL API data and multivariable regression.
 
