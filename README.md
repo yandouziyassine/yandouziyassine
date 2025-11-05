@@ -39,9 +39,9 @@ Whether it’s a machine learning model, a blockchain prototype, or a web platfo
 
 🧩 Focused on cryptographic integrity and system transparency
 
-💬 SimpleChat – OCSF Implementation
+## 💬 SimpleChat – OCSF Implementation
 
-## Client-server chat application built with Java using the OCSF framework.
+#### Client-server chat application built with Java using the OCSF framework.
 
 🖥️ Features user authentication and server-client communication
 
