@@ -73,22 +73,22 @@ This project demonstrates the core principles of blockchain technology — inclu
 
 ## 💼 Experience
 
-👨‍💻 Founder & Developer – AI Sentinel (03/2025 – Present)
+### 👨‍💻 Founder & Developer – AI Sentinel (03/2025 – Present)
 Built a privacy-focused AI content detection platform that identifies AI-generated text, images, and videos in real time.
 
-🧠 Used TensorFlow Lite, FastAPI, and Docker
+##### 🧠 Used TensorFlow Lite, FastAPI, and Docker
 
-🔐 Emphasized on-device inference and data privacy
+##### 🔐 Emphasized on-device inference and data privacy
 
-🏁 Supervisor – Top Karting (03/2023 – Present)
-Led a mechanical and operational team, improving efficiency by 35% while ensuring customer safety and satisfaction.
+### 🏁 Supervisor – Top Karting (03/2023 – Present)
+##### Led a mechanical and operational team, improving efficiency by 35% while ensuring customer safety and satisfaction.
 
 ## 🛠️ Tech Stack
 
 #### Languages: Python, Java, SQL, HTML/CSS, JavaScript, Go, C++
 #### Frameworks: React, NestJS, Node.js, Django, Flask, TensorFlow, PyTorch, OCSF
-#### Developer Tools: Git, Docker, AWS, MongoDB,Vercel, 
-#### Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, JUnit, Guava
+#### Developer Tools: Git, Docker, AWS, MongoDB, Vercel, FireBase
+#### Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, JUnit, XGBoost, Guava
 
 ## 📫 Contact
 
