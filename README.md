@@ -1,19 +1,19 @@
-👋 Hey, I’m Yassine Yandouzi
+#👋 Hey, I’m Yassine Yandouzi
 
-🎓 Computer Engineering Student at the University of Ottawa
-💡 Passionate about AI, Data Science, Cybersecurity, and Innovative Tech
-🌍 Multilingual: English, French, Spanish, Arabic, Dutch
-📍 Based in Ottawa, Canada
+## 🎓 Computer Engineering Student at the University of Ottawa
+## 💡 Passionate about AI, Data Science, Cybersecurity, and Innovative Tech
+## 🌍 Multilingual: English, French, Arabic
+## 📍 Based in Ottawa, Canada
 
-🧠 About Me
+#🧠 About Me
 
 I’m a motivated computer engineering student who loves solving real-world problems through technology. I enjoy building intelligent systems, exploring data-driven solutions, and continuously learning new tools and frameworks.
 Whether it’s a machine learning model, a blockchain prototype, or a web platform, I focus on creating impactful, efficient, and scalable applications.
 
-🚀 Featured Projects
+#🚀 Featured Projects
 🏒 NHL Sports Betting App
 
-A predictive sports analytics platform built in Python, using real-time NHL API data and multivariable regression.
+##A predictive sports analytics platform built in Python, using real-time NHL API data and multivariable regression.
 
 🎯 Achieved a 5% accuracy margin compared to major betting apps
 
@@ -23,7 +23,7 @@ A predictive sports analytics platform built in Python, using real-time NHL API 
 
 💰 Datathon – Polyfinance 2025
 
-Developed a financial forecasting model using real market datasets during a competitive Datathon.
+## Developed a financial forecasting model using real market datasets during a competitive Datathon.
 
 🧮 Applied data visualization and predictive analytics
 
@@ -33,7 +33,7 @@ Developed a financial forecasting model using real market datasets during a comp
 
 ⛓️ Intro to Blockchain
 
-A hands-on blockchain simulation written in Python, illustrating how blocks, hashes, and transactions work.
+## A hands-on blockchain simulation written in Python, illustrating how blocks, hashes, and transactions work.
 
 🔐 Implemented proof-of-work, block validation, and hash chaining
 
@@ -41,7 +41,7 @@ A hands-on blockchain simulation written in Python, illustrating how blocks, has
 
 💬 SimpleChat – OCSF Implementation
 
-Client-server chat application built with Java using the OCSF framework.
+## Client-server chat application built with Java using the OCSF framework.
 
 🖥️ Features user authentication and server-client communication
 
@@ -49,7 +49,7 @@ Client-server chat application built with Java using the OCSF framework.
 
 🧱 Built for university networking coursework
 
-💼 Experience
+# 💼 Experience
 
 👨‍💻 Founder & Developer – AI Sentinel (03/2025 – Present)
 Built a privacy-focused AI content detection platform that identifies AI-generated text, images, and videos in real time.
@@ -64,11 +64,11 @@ Designed and deployed modern, responsive websites for small businesses using Rea
 🏁 Supervisor – Top Karting (03/2023 – Present)
 Led a mechanical and operational team, improving efficiency by 35% while ensuring customer safety and satisfaction.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
-Languages: Python, Java, SQL, HTML/CSS, JavaScript, Go, Lua
-Frameworks: React, NestJS, Node.js, Django, Flask, TensorFlow, PyTorch
-Developer Tools: Git, Docker, AWS, Azure, MongoDB, Kali Linux
+##Languages: Python, Java, SQL, HTML/CSS, JavaScript, Go, C++
+Frameworks: React, NestJS, Node.js, Django, Flask, TensorFlow, PyTorch, OCSF
+Developer Tools: Git, Docker, AWS, MongoDB,Vercel, 
 Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, JUnit, Guava
 
 📫 Contact
