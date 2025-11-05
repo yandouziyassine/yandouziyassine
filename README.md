@@ -15,8 +15,9 @@
 
 # 🧠 About Me
 
-I’m a motivated computer engineering student who loves solving real-world problems through technology. I enjoy building intelligent systems, exploring data-driven solutions, and continuously learning new tools and frameworks.
-Whether it’s a machine learning model, a blockchain prototype, or a web platform, I focus on creating impactful, efficient, and scalable applications.
+I’m a motivated computer engineering student who loves solving real-world problems through technology. 
+I enjoy building intelligent systems, exploring data-driven solutions, and continuously learning new tools and frameworks.
+
 
 # 🚀 Featured Projects
 ### 🏒 NHL Sports Betting App
