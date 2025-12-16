@@ -97,7 +97,7 @@ Built a privacy-focused AI content detection platform that identifies AI-generat
 #### Languages: Python, Java, SQL, HTML/CSS, JavaScript, Go, C++
 #### Frameworks: React, NestJS, Node.js, Django, Flask, TensorFlow, PyTorch, OCSF
 #### Developer Tools: Git, Docker, AWS, MongoDB, Vercel, FireBase
-#### Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, JUnit, XGBoost, Guava
+#### Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, JUnit, XGBoost, Guava, OpenCV, mediapipe, pyautogui
 
 ## 📫 Contact
 
