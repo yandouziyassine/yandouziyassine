@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Yassine Yandouzi
 
-#### Gpa of 3.6
+
 #### Important coursework: 
 - Introduction to software engineering
 - Probability and statistics
