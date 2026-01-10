@@ -39,7 +39,22 @@ I enjoy building intelligent systems, exploring data-driven solutions, and conti
 
 📈 Ranked among top-performing teams (Top 10)
 
+## Universal File Converter – Professional Edition
+#### A robust, containerized file conversion API built with Java Spring Boot, designed for scalability and extensibility.
 
+This project provides a clean web interface and REST API to convert files between multiple formats (documents and images). It uses a Factory Pattern architecture to dynamically select conversion strategies, making it easy to add new formats in the future.
+
+🚀 Live Demo
+👉 Access Live Application 
+
+⚠️ Usage Limits (Public Demo)
+
+Maximum file size: 1 GB per upload
+
+Batch processing: Up to 15 files per request
+
+This application is provided as a many-to-many file conversion proof-of-concept.
+Conversion quality may vary for complex documents, and not all format combinations are guaranteed.
 
 ## ⛓️ Intro to Blockchain
 
